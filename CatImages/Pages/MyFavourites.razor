@@ -6,28 +6,25 @@
 @using CatImages.Models
 @inject FavouritesService FavouritesService
 
-<h1>My favourite images of cats!</h1>
+<h1>Your favourite cats</h1>
 
-    @if (favouriteImages == null || favouriteImages.Length == 0)
+@if (favouriteImages == null || favouriteImages.Length == 0)
 {
     <p>You have not got any favourite cats :(</p>
 }
 else
-{
-    
-
+{ 
     @foreach(var item in favouriteImages)
     {  
-             <br />
+        <br />
         <div class="output"><img src="@item.Image.Url" alt="@item.Id" style="object-fit:contain"></div> 
         <br />
         <button class="btn btn-primary" @onclick="()=>DeleteFavouriteImage(item.Id)">Delete Image</button>
-        <br />
-       
+        <br />       
     }
 }
     
-    @code 
+@code 
 {
     private FavouritesRequest[]? favouriteImages;
 
@@ -40,4 +37,4 @@ else
         await FavouritesService.DeleteFavouriteImage(favouriteId);
         await OnInitializedAsync();
     }
-    }
+}

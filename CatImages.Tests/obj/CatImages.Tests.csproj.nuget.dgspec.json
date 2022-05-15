@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj": {}
+    "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj": {
+    "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj",
         "projectName": "CatImages.Tests",
-        "projectPath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj",
+        "projectPath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj",
         "packagesPath": "C:\\Users\\LoisMartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages.Tests\\obj\\",
+        "outputPath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LoisMartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\CatImages.csproj": {
-                "projectPath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\CatImages.csproj"
+              "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\CatImages.csproj": {
+                "projectPath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\CatImages.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\CatImages.csproj": {
+    "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\CatImages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\CatImages.csproj",
+        "projectUniqueName": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\CatImages.csproj",
         "projectName": "CatImages",
-        "projectPath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\CatImages.csproj",
+        "projectPath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\CatImages.csproj",
         "packagesPath": "C:\\Users\\LoisMartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\obj\\",
+        "outputPath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LoisMartins\\AppData\\Roaming\\NuGet\\NuGet.Config",

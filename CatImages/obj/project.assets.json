@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\CatImages.csproj",
+      "projectUniqueName": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\CatImages.csproj",
       "projectName": "CatImages",
-      "projectPath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\CatImages.csproj",
+      "projectPath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\CatImages.csproj",
       "packagesPath": "C:\\Users\\LoisMartins\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages\\obj\\",
+      "outputPath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LoisMartins\\AppData\\Roaming\\NuGet\\NuGet.Config",

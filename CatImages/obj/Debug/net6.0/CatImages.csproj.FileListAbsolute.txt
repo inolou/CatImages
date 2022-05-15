@@ -27,3 +27,32 @@ C:\Users\LoisMartins\source\repos\CatImages\CatImages\obj\Debug\net6.0\CatImages
 C:\Users\LoisMartins\source\repos\CatImages\CatImages\obj\Debug\net6.0\ref\CatImages.dll
 C:\Users\LoisMartins\source\repos\CatImages\CatImages\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\LoisMartins\source\repos\CatImages\CatImages\obj\Debug\net6.0\CatImages.csproj.CopyComplete
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\appsettings.json
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\CatImages.staticwebassets.runtime.json
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\CatImages.exe
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\CatImages.deps.json
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\CatImages.runtimeconfig.json
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\CatImages.dll
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\CatImages.pdb
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.csproj.AssemblyReference.cache
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.AssemblyInfoInputs.cache
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.AssemblyInfo.cs
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.csproj.CoreCompileInputs.cache
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.RazorAssemblyInfo.cache
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.RazorAssemblyInfo.cs
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\scopedcss\bundle\CatImages.styles.css
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\scopedcss\projectbundle\CatImages.bundle.scp.css
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.csproj.CopyComplete
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.dll
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\refint\CatImages.dll
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.pdb
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\CatImages.genruntimeconfig.cache
+C:\Users\LoisMartins\OneDrive - ClearBank Limited\Documents\CatImages\CatImages\obj\Debug\net6.0\ref\CatImages.dll

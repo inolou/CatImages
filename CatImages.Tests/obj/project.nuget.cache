@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w7jZrfUT40RTSOAn+AICEVAxYCbI4NxKwDSF1DUkb/LGZj5+jxmPvUJZKwPhxi1XGo0H7Qdxfuime7DNAddyUg==",
+  "dgSpecHash": "RsDHfUAdYakFODhM/sNoj656KEKeauLNdrBtFuOU5qIxFGwusjjsT60/s5n3iy6hTl+ujSWBCp59mmj4OefSgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LoisMartins\\source\\repos\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj",
+  "projectFilePath": "C:\\Users\\LoisMartins\\OneDrive - ClearBank Limited\\Documents\\CatImages\\CatImages.Tests\\CatImages.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LoisMartins\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\LoisMartins\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

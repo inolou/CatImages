@@ -7,23 +7,21 @@
 @inject ImagesService ImagesService
 @inject FavouritesService FavouritesService
 
-<h1>Get a random image of a cat!</h1>
+<h1>Cats Database</h1>
+<br />
+<button class="btn btn-primary" @onclick="GetImage">Click here to load a cute!</button> 
+<br />
+
+@foreach(var item in images)
+{  
   <br />
-  <button class="btn btn-primary" @onclick="GetImage">Click me to load a random image of a cat!</button> 
+  <div class="output"><img src="@item.Url" alt="@item.Id" style="object-fit:contain"></div> 
   <br />
-    @foreach(var item in images)
-    {  
-        <br />
-        <div class="output"><img src="@item.Url" alt="@item.Id" style="object-fit:contain"></div> 
-        <br />
-        <button class="btn btn-primary" @onclick="()=>SaveToFavourites(item.Id)">Save image</button>
-        
-    }
-     
+  <button class="btn btn-primary" @onclick="()=>SaveToFavourites(item.Id)">Save image</button>        
+}  
 
-
-
-@code {
+@code 
+{
     private Image[]? images;
 
     protected async override Task OnInitializedAsync()
@@ -39,6 +37,5 @@
     {
         await FavouritesService.AddFavouriteImage(imageId);
         await GetImage();
-
     }
 }

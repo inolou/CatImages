@@ -24,6 +24,6 @@ namespace CatImages.Tests
             Assert.That(images, Is.Not.Null);
             Assert.That(images[0].Id, Is.Not.Null);
             Assert.That(images[0].Url, Is.Not.Null);
-           }
+        }
     }
 }

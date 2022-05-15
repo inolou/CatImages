@@ -31,7 +31,6 @@ namespace CatImages.Tests
         public async Task DeleteFavouriteImages_Success()
         {
             // arrange
-
             var testFavouriteImage = await favouritesService.AddFavouriteImage("bo6");
 
             // act
@@ -45,8 +44,6 @@ namespace CatImages.Tests
         [Test]
         public async Task AddFavouriteImage_Success()
         {
-
-
             //arrange
             var getImage = await imagesService.GetImages();
 
@@ -57,7 +54,5 @@ namespace CatImages.Tests
             Assert.That(saveImage, Is.Not.Null);
             Assert.That(saveImage.Message, Is.EqualTo("SUCCESS"));
         }
-
-
     }
 }

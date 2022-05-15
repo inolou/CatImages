@@ -6,9 +6,6 @@
             public Image Image { get; set; }
             public string ImageID { get; set; }
             public string UserID { get; set; }
-            public DateTime CreatedAt { get; set; }
-
-       
-
-         }
+            public DateTime CreatedAt { get; set; }      
+    }
 }
