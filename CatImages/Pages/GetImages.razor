@@ -1,0 +1,44 @@
+﻿@page "/getimages"
+
+<PageTitle>Get Images</PageTitle>
+
+@using CatImages.Data
+@using CatImages.Models
+@inject ImagesService ImagesService
+@inject FavouritesService FavouritesService
+
+<h1>Get a random image of a cat!</h1>
+  <br />
+  <button class="btn btn-primary" @onclick="GetImage">Click me to load a random image of a cat!</button> 
+  <br />
+    @foreach(var item in images)
+    {  
+        <br />
+        <div class="output"><img src="@item.Url" alt="@item.Id" style="object-fit:contain"></div> 
+        <br />
+        <button class="btn btn-primary" @onclick="()=>SaveToFavourites(item.Id)">Save image</button>
+        
+    }
+     
+
+
+
+@code {
+    private Image[]? images;
+
+    protected async override Task OnInitializedAsync()
+    {
+        images = new Image[0];
+    }
+
+    protected async Task GetImage()
+    {
+        images = await ImagesService.GetImages();
+    }
+    protected async Task SaveToFavourites(string imageId)
+    {
+        await FavouritesService.AddFavouriteImage(imageId);
+        await GetImage();
+
+    }
+}

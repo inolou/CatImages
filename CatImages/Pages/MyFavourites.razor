@@ -1,0 +1,43 @@
+﻿@page "/myfavourites"
+
+<PageTitle>My Favourites</PageTitle>
+
+@using CatImages.Data
+@using CatImages.Models
+@inject FavouritesService FavouritesService
+
+<h1>My favourite images of cats!</h1>
+
+    @if (favouriteImages == null || favouriteImages.Length == 0)
+{
+    <p>You have not got any favourite cats :(</p>
+}
+else
+{
+    
+
+    @foreach(var item in favouriteImages)
+    {  
+             <br />
+        <div class="output"><img src="@item.Image.Url" alt="@item.Id" style="object-fit:contain"></div> 
+        <br />
+        <button class="btn btn-primary" @onclick="()=>DeleteFavouriteImage(item.Id)">Delete Image</button>
+        <br />
+       
+    }
+}
+    
+    @code 
+{
+    private FavouritesRequest[]? favouriteImages;
+
+    protected override async Task OnInitializedAsync()
+    {
+        favouriteImages = await FavouritesService.GetFavouriteImages();
+    }
+    protected async Task DeleteFavouriteImage(int favouriteId)
+    {
+        await FavouritesService.DeleteFavouriteImage(favouriteId);
+        await OnInitializedAsync();
+    }
+    }
